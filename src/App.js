@@ -13,7 +13,7 @@ function App() {
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
-          Mining App
+          Mining App Dashboard
         </p>
       </header>
       <MachineData/>
